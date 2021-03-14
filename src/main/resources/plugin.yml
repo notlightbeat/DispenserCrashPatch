@@ -1,0 +1,8 @@
+name: DispenserCrashPatch
+version: ${project.version}
+main: me.hexa.dispensercrashpatch.Patch
+authors: [ Hexa ]
+description: Patch for the dispenser crash
+commands:
+  dispensercrash:
+    usage: '/dispensercrash {arguments}'
